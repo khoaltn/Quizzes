@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quizzes</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="homeText">Welcome!</string>
+    <string name="quiz1">Harry Potter?</string>
+    <string name="quiz2">Math?</string>
+    <string name="nextButton">Next</string>
+    <string name="sorryText">Nope, sorry :(</string>
+    <string name="congratText">Congratulations! You\'re awesome!</string>
+    <string name="homeButton">Home</string>
+    <string name="quiz1Details">If you\'re a Harry Potter fan, take Quiz 1.</string>
+    <string name="quiz2Details">If not, take Quiz 2.</string>
+
+    <!-- Quiz 1 Questions and Answers-->
+    <string name="quiz1_1_q">What fruit do you have to tickle to get into Hogwarts\' kitchen?</string>
+        <string name="quiz1_1_ar">Pear</string>
+        <string name="quiz1_1_aw1">Apple</string>
+        <string name="quiz1_1_aw2">Orange</string>
+        <string name="quiz1_1_aw3">Dragon Fruit</string>
+        <string name="quiz1_1_expl">You have to tickle the pear on the picture.</string>
+
+    <string name="quiz1_2_q">What is Professor Dumbledore\'s full name?</string>
+        <string name="quiz1_2_ar">Albus Percival Wulfric Brian Dumbledore</string>
+        <string name="quiz1_2_aw1">Albus Percival Wolff Bentley Dumbledore</string>
+        <string name="quiz1_2_aw2">Albus Perseus Wolfgang Brian Dumbledore</string>
+        <string name="quiz1_2_aw3">Albus Perseus Wulfric Bentley Dumbledore</string>
+        <string name="quiz1_2_expl">His full name is Albus Percival Wulfric Brian Dumbledore.</string>
+
+    <string name="quiz1_3_q">When is Hermione Granger\'s birthday?</string>
+        <string name="quiz1_3_ar">September 19th</string>
+        <string name="quiz1_3_aw1">September 20th</string>
+        <string name="quiz1_3_aw2">September 21st</string>
+        <string name="quiz1_3_aw3">September 22nd</string>
+        <string name="quiz1_3_expl">Hermione Jean Granger was born on September 19th, 1979.</string>
+
+    <string name="quiz1_4_q">Who did Draco Malfoy marry?</string>
+        <string name="quiz1_4_ar">Astoria Greengrass</string>
+        <string name="quiz1_4_aw1">Pansy Parkinson</string>
+        <string name="quiz1_4_aw2">Daphne Greengrass</string>
+        <string name="quiz1_4_aw3">Millicent Bulstrode</string>
+        <string name="quiz1_4_expl">Draco Malfoy was married to Astoria Greengrass, sister of Daphne Greengrass.</string>
+
+    <string name="quiz1_5_q">What was the final score of the Quidditch World Cup Final 1994?</string>
+        <string name="quiz1_5_ar">Ireland 170 - Bulgaria 160</string>
+        <string name="quiz1_5_aw1">Ireland 170 - Bulgaria 150</string>
+        <string name="quiz1_5_aw2">Ireland 160 - Bulgaria 150</string>
+        <string name="quiz1_5_aw3">Ireland 180 - Bulgaria 170</string>
+        <string name="quiz1_5_expl">The final score was Ireland 170 - Bulgaria 160.</string>
+
+    <!-- Quiz 1 Questions and Answers-->
+
+    <!-- Quiz 2 Questions and Answers-->
+    <string name="quiz2_1_q">1 + 1 + 1 + ... </string>
+    <string name="quiz2_1_ar">Is unbounded and has no exact answer</string>
+    <string name="quiz2_1_aw1">Equals infinity</string>
+    <string name="quiz2_1_aw2">None of the above</string>
+    <string name="quiz2_1_aw3">Equals a very large number</string>
+    <string name="quiz2_1_expl">It is unbounded and has no exact numerical answer! It is also not infinity because infinity is a "size", not a number.</string>
+
+    <string name="quiz2_2_q">Which is bigger?</string>
+    <string name="quiz2_2_ar">They are all equal</string>
+    <string name="quiz2_2_aw1">The set of Even numbers? (2,4,6,8,...)</string>
+    <string name="quiz2_2_aw2">The set of Natrual numbers? (1,2,3,...)</string>
+    <string name="quiz2_2_aw3">The set of Rational numbers?</string>
+    <string name="quiz2_2_expl">They are actually all equal! They are the same "size" of infinity.</string>
+
+    <string name="quiz2_3_q">111111111 x 111111111 =</string>
+    <string name="quiz2_3_ar">12345678987654321</string>
+    <string name="quiz2_3_aw1">123456789101112</string>
+    <string name="quiz2_3_aw2">1111111111111111</string>
+    <string name="quiz2_3_aw3">49753847234583</string>
+    <string name="quiz2_3_expl">The correct answer is 12345678987654321.</string>
+
+    <string name="quiz2_4_q">How many people do you need in a group to ensure at least a 50 percent probability that 2 people in the group share a birthday?</string>
+    <string name="quiz2_4_ar">23</string>
+    <string name="quiz2_4_aw1">365</string>
+    <string name="quiz2_4_aw2">196</string>
+    <string name="quiz2_4_aw3">75</string>
+    <string name="quiz2_4_expl">Surprisingly, only 23 people are needed.</string>
+
+    <string name="quiz2_5_q">What comes next? Million, Billion, Trillion, </string>
+    <string name="quiz2_5_ar">Quadrillion</string>
+    <string name="quiz2_5_aw1">Quintillion</string>
+    <string name="quiz2_5_aw2">Septillion</string>
+    <string name="quiz2_5_aw3">Nonillion</string>
+    <string name="quiz2_5_expl">Quadrillion comes after a trillion</string>
+    <string name="learnMoreButtonText">Learn More</string>
+
+    <!-- Quiz 2 Questions and Answers-->
+</resources>
